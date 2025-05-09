@@ -1,24 +1,22 @@
 # BIM-GIS Viewer
 
 ![img](BIM-GIS.png)
-Try it out: [https://extraordinary-belekoy-ee7fa8.netlify.app](https://extraordinary-belekoy-ee7fa8.netlify.app](https://cdebimtrag.netlify.app/)
+Pruébalo: [https://extraordinary-belekoy-ee7fa8.netlify.app](https://extraordinary-belekoy-ee7fa8.netlify.app](https://cdebimtrag.netlify.app/)
 
-Watch demo: [https://youtu.be/4PvLQ1qMmKI](https://youtu.be/4PvLQ1qMmKI)
+Ver demostración: [https://youtu.be/4PvLQ1qMmKI](https://youtu.be/4PvLQ1qMmKI)
 
-Honorable Mention in IFC.js Crash Course 1st Edition Hackathon: [https://www.linkedin.com/posts/antonio-gonz%C3%A1lez-viegas-8b2326151_openbim-opensource-activity-6974052235869618176-YJH-/](https://www.linkedin.com/posts/antonio-gonz%C3%A1lez-viegas-8b2326151_openbim-opensource-activity-6974052235869618176-YJH-/)
+## Características principales
 
-## Key Features
+- Coloque su modelo donde desee o muévalo aleatoriamente (integración BIM-GIS)
+- Admite medición 3D
+- Lea las propiedades IFC haciendo clic en los elementos
+- Añada planos de recorte para encontrar elementos internos
+- Cambie el color de fondo del visor con una paleta de colores
+- Preprocesamiento, gestión de memoria y compatibilidad con multihilo
 
-- Place your model anywhere you want or move it randomly (BIM-GIS integration)
-- Support 3D measurement
-- Read IFC properties by clicking elements
-- Add clipping planes to find internal elements
-- Change background color of the viewer with a color palette
-- Preprocessing, memory management and multithreading support
+## Cómo usar
 
-## How To Use
-
-Get a free Mapbox API Key at [https://www.mapbox.com/](https://www.mapbox.com/)
+Obtén una clave API de Mapbox gratis en [https://www.mapbox.com/](https://www.mapbox.com/)
 
 ```bash
 # Clone this repository
@@ -34,11 +32,11 @@ $ npm install
 $ npm run build
 ```
 
-Store your API in .env and Use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to serve the app
+Almacene su API en .env y utilice [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para servir la aplicación.
 
-## Credits
+## Créditos
 
-This software uses the following open source packages:
+Este software utiliza los siguientes paquetes de código abierto:
 
 - [IFC.js](https://ifcjs.github.io/info/)
 - [Three.js](https://threejs.org/)
