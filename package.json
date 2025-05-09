@@ -1,11 +1,11 @@
 {
   "name": "bim-gis-viewer",
   "version": "1.0.0",
-  "description": "a submission to IFC.js hackathon",
+  "description": "DEMO IFCView",
   "main": "index.html",
   "author": {
     "name": "Helen Kwok",
-    "url": "https://github.com/helenkwok"
+    "url": "https://github.com/CDETragsa/bim-gis-viewer"
   },
   "scripts": {
     "build": "rollup -c",
