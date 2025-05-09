@@ -1,7 +1,7 @@
 # BIM-GIS Viewer
 
 ![img](BIM-GIS.png)
-Pruébalo: [https://extraordinary-belekoy-ee7fa8.netlify.app](https://extraordinary-belekoy-ee7fa8.netlify.app](https://cdebimtrag.netlify.app/)
+Pruébalo: [https://cdebimtrag.netlify.app](https://cdebimtrag.netlify.app/)
 
 Ver demostración: [https://youtu.be/4PvLQ1qMmKI](https://youtu.be/4PvLQ1qMmKI)
 
